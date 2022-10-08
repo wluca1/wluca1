@@ -1,4 +1,4 @@
-## Opa! Meu nome é Walter Lucas e curso Ciências da Computação!
+## Opa! Meu nome é Walter Lucas e curso Ciências da Computação
 <div align="center">
     <a href="https://github.com/wluca1">
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=wluca1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
