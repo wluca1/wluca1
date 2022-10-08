@@ -8,7 +8,7 @@
    <img align="center" alt="Rafa-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="right" alt="Rafa-pic" height="160" style="border-radius:50px;" src="https://media.discordapp.net/attachments/739217358828208179/1028356386704347217/Walter_Lucas.png">
+    <img align="right" alt="Rafa-pic" height="140" style="border-radius:50px;" src="https://media.discordapp.net/attachments/739217358828208179/1028356386704347217/Walter_Lucas.png">
 </div>
       </div>
   
